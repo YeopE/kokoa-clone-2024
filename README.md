@@ -1,3 +1,3 @@
-# Kokoa Clone 2024 Projuect
+# Kokoa Clone 2020 Update
 
 HTML & CSS are so much fun!
