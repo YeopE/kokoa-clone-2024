@@ -14,5 +14,33 @@
 }
 
 .nav__link {
+  position: relative;
   color: #2e363e;
 }
+
+.nav__notification--chat,
+.nav__notification--ellipsis {
+  background-color: tomato;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
+  position: absolute;
+}
+
+.nav__notification--chat {
+  width: 30px;
+  height: 30px;
+  left: 15px;
+  bottom: 15px;
+}
+
+.nav__notification--ellipsis {
+  width: 6px;
+  height: 6px;
+  left: 27px;
+  bottom: 27px;
+}
+
